@@ -1,0 +1,14 @@
+{
+  "name": "p_ii",
+  "version": "1.0.0",
+  "description": "p_II",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "PII"
+  ],
+  "author": "Manoel Acmn",
+  "license": "ISC"
+}
